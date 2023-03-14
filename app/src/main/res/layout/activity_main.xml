@@ -9,7 +9,7 @@
 
     <TextView
         android:textColor="@color/black"
-        android:text="Linear Layout (Without Weigh)"
+        android:text="Linear Layout (Without Weight)"
         android:textSize="25sp"
         android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
@@ -31,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <Button
-        android:backgroundTint="@color/ungu"
+        android:backgroundTint="@color/pink"
         android:text="BUTTON 4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
